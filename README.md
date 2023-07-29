@@ -2,7 +2,7 @@
 
 <br>
 - Hi, I’m Himadri Singh Singh<br>
-- I’m interested in Sketches and various forms of art and i like to code sometimes. br>
+- I’m interested in Sketches and various forms of art and i like to code sometimes. <br>
 - I’m currently studying Electronics and Communication in Kolkata, India.<br>
 - You can reach me on singhhimadri727@gmail.com<br>
 
