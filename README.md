@@ -6,6 +6,8 @@
 - I’m currently studying Electronics and Communication in Kolkata, India.<br>
 - You can reach me on singhhimadri727@gmail.com<br>
 
+<Portfolio>
+https://singh-himadri.github.io/Portfolio-CV/
 
 ## Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ofpaintsandpalettes/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-himadri/) 
